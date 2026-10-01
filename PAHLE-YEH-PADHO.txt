@@ -1,0 +1,47 @@
+ONKAR — GITHUB DIRECT UPLOAD (2 repos)
+======================================
+
+Is ZIP mein 2 folders hain. Har folder = ek GitHub repo ka COMPLETE setup.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REPO 1 — Profile (animated README)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. GitHub → New repository
+   Name: Onkarnagargoje  (username jaisa EXACT)
+   Public → Create (README mat add karna agar upload se pehle empty chahiye)
+
+2. Repo kholo → "Add file" → "Upload files"
+
+3. Folder "REPO-1-Onkarnagargoje" kholo → ANDAR ki SAARI files upload karo:
+   - README.md
+   - profile-3d-contrib.svg
+   - .github folder (pura)  ← ZAROORI animations ke liye
+
+   Tip: .github dikhe nahi to "Show hidden files" ON karo (Windows/Mac)
+
+4. Commit
+
+5. Tab "Actions" → dono workflows RUN karo (green button):
+   - Generate contribution snake
+   - Generate 3D contribution graph
+
+6. 2 minute baad profile dekho: github.com/Onkarnagargoje
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REPO 2 — SOC project (pin karo)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. New repo name: firewall-log-analyzer
+2. Upload files from folder "REPO-2-firewall-log-analyzer" (saari files)
+3. Profile → Customize pins → is repo ko #1 pin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Bio (copy-paste)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Settings → Profile → Bio:
+
+B.Voc Cyber Security & DF | SOC/Blue Team | Log triage & MITRE | CCNA training | Dual B.Tech CSE | Junior SOC · Nanded
+
+Done.
